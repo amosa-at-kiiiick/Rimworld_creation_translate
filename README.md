@@ -72,5 +72,7 @@ RimWorld安裝資料夾中的 `\RimWorldWin_Data\resources.assets`
 - ``<BaseDesc>`` `要特別注意全大寫的單字為系統變數，請勿修改。(如 NAME HE HISCAP ...)`
 
 ### 社群協助感謝名單 :D :D :D 
-阿MOSA將會將您的每一筆貢獻放入在此列表中，感謝大家的付出 :D
+阿MOSA將會將您的每一筆貢獻放入在此列表中，
+並且一起加入遊戲角色暱稱資料庫中，感謝大家的付出 :D
+
 - 阿MOSA實況台 [twitch.tv/amosa2001](https://twitch.tv/amosa2001)
