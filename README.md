@@ -73,4 +73,4 @@ RimWorld安裝資料夾中的 `\RimWorldWin_Data\resources.assets`
 
 ### 社群協助感謝名單 :D :D :D 
 阿MOSA將會將您的每一筆貢獻放入在此列表中，感謝大家的付出 :D
-- 阿MOSA [twitch.tv/amosa2001]
+- 阿MOSA實況台 [twitch.tv/amosa2001](https://twitch.tv/amosa2001)
