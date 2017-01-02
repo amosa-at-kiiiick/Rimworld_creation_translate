@@ -64,12 +64,12 @@ RimWorld安裝資料夾中的 `\RimWorldWin_Data\resources.assets`
 <PlayerCreatedBios>
 ```
 需要翻譯的標籤大概整理如下:
-- <Title>
-- <TitleShort>
-- <First>
-- <Last>
-- <Nick>
-- <BaseDesc> `要特別注意全大寫的單字為系統變數，請勿修改。(如 NAME HE HISCAP ...)`
+- ``<Title>``
+- ``<TitleShort>``
+- ``<First>``
+- ``<Last>``
+- ``<Nick>``
+- ``<BaseDesc>`` `要特別注意全大寫的單字為系統變數，請勿修改。(如 NAME HE HISCAP ...)`
 
 ### 社群協助感謝名單 :D :D :D 
 阿MOSA將會將您的每一筆貢獻放入在此列表中，感謝大家的付出 :D
